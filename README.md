@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/kDmWNR2/banner-demo.png" alt="banner" />
+  <img src="[https://i.ibb.co/kDmWNR2/banner-demo.png](https://img.freepik.com/premium-vector/circuit-connect-lines-dots-network-technology_322958-5018.jpg?uid=R201254558&ga=GA1.1.1244749982.1746434983&semt=ais_items_boosted&w=740)" alt="banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Atikur Rahman 👋</h1>
@@ -54,9 +54,6 @@ I enjoy solving real-world problems and continuously learning new tools and fram
   <img src="https://github-readme-stats.vercel.app/api?username=pabel-sarkar&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabel-sarkar&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabel-sarkar&layout=compact&theme=tokyonight" />
